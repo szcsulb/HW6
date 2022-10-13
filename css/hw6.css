@@ -1,0 +1,32 @@
+.highlighted {
+  background-color: #ffff00;
+  color: #454545;
+  font-weight:  bold;
+}
+
+table#numTable {
+  border-collapse:  collapse;
+
+}
+table#numTable,
+table#numTable  tr td {
+  border: 1px solid #454545;
+}
+table#numTable  tr td {
+  border: 1px solid #454545;
+  text-align:  center;
+  padding:  2px 4px;
+}
+.divisible {
+  background-color: #00ccff;
+}
+
+dl dt {
+  font-weight:  bold;
+}
+
+.error,
+.sum {
+  color:  red;
+  font-weight:  bold;
+}
